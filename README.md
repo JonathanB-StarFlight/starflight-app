@@ -1,2 +1,2 @@
-# starflight-privacy
-Privacy Policy 
+# starflight privacy and support
+
